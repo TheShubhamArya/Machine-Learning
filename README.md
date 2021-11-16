@@ -32,3 +32,6 @@ Each python file will have the run commands commented at the start to run the fi
 ## K-Means
 
 #### [Slides for K-means and clustering](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/17_clustering.pdf)
+
+## Learning Outcomes
+After successfully taking this course, I am familiar with standard approaches to machine learning, know the pros and cons of these approaches, able to implement basic machine learning methods, and able to apply basic machine learning methods to real world problems.
