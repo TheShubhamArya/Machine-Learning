@@ -1,0 +1,2 @@
+# Machine-Learning
+This is for my Machine Learning (CSE 4309) course at UTA. This course offers an introduction to machine learning. Topics include Bayes classifiers, linear regression, neural networks and backpropagation, decision trees, clustering, and reinforcement learning. A strong programming background is assumed, as well as familiarity with linear algebra (vector and matrix operations), and knowledge of basic probability theory and statistics. This repository contains the assignments I had to do through this course.
