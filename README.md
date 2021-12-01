@@ -33,5 +33,16 @@ Each python file will have the run commands commented at the start to run the fi
 
 #### [Slides for K-means and clustering](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/17_clustering.pdf)
 
+## Value iteratio algorithms
+
+#### Markov Decision Processes
+##### [Part 1: Basic Definitions](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/18a_mdp.pdf)
+
+##### [Part 2: Utilities of states and the Bellman Equation](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/18b_mdp.pdf)
+
+##### [Part 3: Utilities of states and the Bellman Equation](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/18c_mdp.pdf)
+
+#### [Reinforcement Learning](https://athitsos.utasites.cloud/courses/cse4309_fall2021/lectures/19_rl.pdf)
+
 ## Learning Outcomes
 After successfully taking this course, I am familiar with standard approaches to machine learning, know the pros and cons of these approaches, able to implement basic machine learning methods, and able to apply basic machine learning methods to real world problems.
